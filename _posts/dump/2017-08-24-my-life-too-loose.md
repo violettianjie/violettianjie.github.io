@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 生活的真随意
+title: 生活的太过随意
 category: dump
 description: 自我反省
 ---
