@@ -5,9 +5,9 @@ layout: home
 <div class="index-content blog">
     <div class="section">
         <ul class="artical-cate">
-            <li class="on"><a href="/"><span>Blog</span></a></li>
-            <li style="text-align:center"><a href="/dump"><span>Diary</span></a></li>
-            <li style="text-align:right"><a href="/project"><span>Dump</span></a></li>
+            <li class="on"><a href="/"><span>Thoughts</span></a></li>
+            <li style="text-align:center"><a href="/dump"><span>Déjà vu</span></a></li>
+            <li style="text-align:right"><a href="/project"><span>Journal</span></a></li>
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
