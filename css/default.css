@@ -89,8 +89,9 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .dejavu .aside{
     background-image:url(/images/dump.jpg);
 }
+/* 'https://d233eq3e3p3cv0.cloudfront.net/max/1000/0*kTUZamBulGQZg1MW.jpeg' */
 .journal .aside{
-    background-image:url('https://d233eq3e3p3cv0.cloudfront.net/max/1000/0*kTUZamBulGQZg1MW.jpeg')
+    background-image:url(/images/journal.jpeg)
 }
 .index-content .section { margin-left:30%; padding-top:80px; padding-right:15%; ;}
 
