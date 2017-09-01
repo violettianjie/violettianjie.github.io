@@ -2,7 +2,7 @@
 layout: post
 title: 去过的地方
 category: dejavu
-description: 国内国外走过的mega City
+description: 国内国外停留了我的一部分的城市
 ---
 
 国内
@@ -11,6 +11,8 @@ description: 国内国外走过的mega City
 * 香港
 * 四川
 * 陕西
+    - 西安
+    - 宝鸡
 	
 国外
 ---------------
