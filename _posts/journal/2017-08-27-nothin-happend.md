@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 8月27
-category: dump 
+category: journal 
 description: 玩了一天terminal
 ---
 

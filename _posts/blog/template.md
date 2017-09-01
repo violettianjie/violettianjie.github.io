@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 只言
-description: Die Liebe zu Welt.
+title: "your title"
+description: "short description"
 category: blog
 ---
 
@@ -9,4 +9,4 @@ category: blog
 
 
 
-[Mukosame]:    http://mukosame.github.io  "Mukosame"
+[Yannch]:    http://camscofie.github.io  "Yannch"

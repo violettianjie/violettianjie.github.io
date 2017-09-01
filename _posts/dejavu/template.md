@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 不语
-category: dump
-description: Die Erkenntnis.
+title: "your title"
+category: dejavu
+description: “short description”
 ---
 
-[Mukosame]:    http://mukosame.github.io  "Mukosame"
+[Yannch]:    http://camscofie.github.io  "Yannch"

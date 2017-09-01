@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 生活的太过随意
-category: dump
+category: journal
 description: 自我反省
 ---
 
