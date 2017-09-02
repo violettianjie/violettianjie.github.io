@@ -2,7 +2,7 @@
 layout: post
 title: 去过的地方
 category: dejavu
-description: 国内国外停留了我的一部分的城市
+description: 国内国外走过的城市
 ---
 
 国内
