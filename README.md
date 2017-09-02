@@ -1,1 +1,1 @@
-# MY life, my code and my shit.
+# Tianjie‘s blog  20170902 
