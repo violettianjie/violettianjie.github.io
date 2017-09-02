@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "your title"
-category: dejavu
+category: travel
 description: “short description”
 ---
 
-[Yannch]:    http://camscofie.github.io  "Yannch"
+[TianJie]:    https://violettianjie.github.io  "TianJie"
