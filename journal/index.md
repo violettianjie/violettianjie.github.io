@@ -6,7 +6,7 @@ layout: home
     <div class="section">
         <ul class="artical-cate">
             <li><a href="/"><span>Blog</span></a></li>
-            <li style="text-align:center"><a href="/travel"><span>Travel</span></a></li>
+            <li style="text-align:center"><a href="/travel"><span>Travel</span></a></li>
             <li class="on" style="text-align:right"><a href="/journal"><span>Journal</span></a></li>
         </ul>
 
