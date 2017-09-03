@@ -2,12 +2,19 @@
 
 https://violettianjie.github.io/
 
-感谢@weihaisheng 对建立这个github pages blog的帮助。
+## 为什么要开博客？ 
 
-源码forked from camscofie/camscofie.github.io。
+- 分享我有的一切, 参考博客 [Derek Sivers]( https://sivers.org/sharing)
 
+## 感谢
 
-[参考文档：](http://beiyuu.com/github-pages)
+1、@weihaisheng 对建立这个github pages blog的帮助。
+
+2、源码forked from camscofie/camscofie.github.io。源码来源 http://beiyuu.com/。
+
+## 参考资料
+
+- [参考文档：](http://beiyuu.com/github-pages)
 
 Jekyll基本结构
 
