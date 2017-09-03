@@ -7,7 +7,7 @@ category: blog
 
 
 
-- 2017.08.19在福建[长汀华南内观中心](http://ng.81355.net/course.action?schoolIntroId=1)完成[内观](https://www.dhamma.org/zh-HANS/index)30日[长课程](https://www.dhamma.org/zh-HANS/courses/glossary)。2017.09.03建立[独立的博客](https://violettianjie.github.io)。还有其他的事情我在做，会在完成后在此更新。
+- 2017.08.19在福建[长汀华南内观中心](http://ng.81355.net/course.action?schoolIntroId=1)完成[内观](https://www.dhamma.org/zh-HANS/index)30日[长课程](https://www.dhamma.org/zh-HANS/courses/glossary)。2017.09.03用[GitHub pages+ Jekyll](https://violettianjie.github.io/03sep)建立[独立的博客](https://violettianjie.github.io)。还有其他的事情我在做，会在完成后在此更新。
 
 - 为什么有“[now page](http://nownownow.com/about)”？
 
