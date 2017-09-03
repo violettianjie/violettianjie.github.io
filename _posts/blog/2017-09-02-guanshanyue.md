@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "关山月"
-description: "改写喜欢的诗"
+description: "明月出天山，苍茫云海间"
 category: blog
 ---
 
