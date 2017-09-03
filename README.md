@@ -1,4 +1,4 @@
-# Tianjie's blog  20170902 
+# TianJie's Blog  20170902 
 
 https://violettianjie.github.io/
 
