@@ -11,3 +11,5 @@ category: blog
 
 - 为什么有“[now page](http://nownownow.com/about)”？
 
+- 更新：2017-09-03。This update was September 3rd, 2017。
+
