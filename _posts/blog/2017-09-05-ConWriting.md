@@ -5,7 +5,6 @@ description: "认知写作课有感"
 category: blog
 ---
 
-# 南山是一座什么样的山？
 
 ## 南山有台，北山有莱
 
