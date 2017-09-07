@@ -64,7 +64,7 @@ category: blog
 
 从南方古猿，到早期古人，到古人，到解剖学意义上的现代人......进化的规律亘古不变，千万年的长河中，静静的流淌，等着你的遇见。
 
-书名[《人类的演化》](https://book.douban.com/subject/26834220/) 作者 罗宾 邓巴，余彬 译。上海文艺出版社。 
+书名[《人类的演化》](https://book.douban.com/subject/26834220/) 作者 [罗宾 邓巴](https://en.wikipedia.org/wiki/Robin_Dunbar)，余彬 译。上海文艺出版社。 
 
 ChangeLog：2017-03 初稿
 
