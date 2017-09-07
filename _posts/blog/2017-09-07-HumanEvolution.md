@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "人类的演化"
-description: "且用烹饪秀来看进化"
+description: "读书|进化心理学|且用烹饪秀来看进化"
 category: blog
 --- 
 
