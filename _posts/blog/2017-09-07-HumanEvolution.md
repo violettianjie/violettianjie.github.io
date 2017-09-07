@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title: "人类的演化"
