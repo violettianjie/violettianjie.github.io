@@ -1,10 +1,13 @@
 
 ---
 layout: post
-title:"知识的镜子"
-description:"我想和你抚掌相和"
+title: "知识的镜子"
+description: "我想和你抚掌相和"
 category: blog
 ---
+
+
+
 
 
 ## 知识的镜子
@@ -52,3 +55,9 @@ category: blog
 > 面对笼罩在四方的白光、黑光，你们就保持沉默吧，如金似玉。
 
 > 再见，我的地球朋友们。 有一天，你们制造出自己的镜子的那一天，我还会再来，举杯同庆，抚掌相和。 
+
+
+
+
+
+[TianJie]:    http://violettianjie.github.io  "TianJie"
