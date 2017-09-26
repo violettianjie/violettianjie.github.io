@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: "知识的镜子"
+title: "the mirror of knowledge"
 description: "我想和你抚掌相和"
 category: blog
 ---
