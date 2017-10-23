@@ -1,7 +1,7 @@
 ---
-layout:   post
+layout:     post
 tilte: 成长
-category：Blog
+category：blog
 description：开心
 ---
 
