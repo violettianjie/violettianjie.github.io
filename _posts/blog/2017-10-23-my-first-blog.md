@@ -1,5 +1,11 @@
 ---
 layout:     post
+title: 10月23随笔   
+category: journal
+description: 考试焦虑。
+---
+
+layout:     post
 tilte: 成长
 category：blog
 description：开心
