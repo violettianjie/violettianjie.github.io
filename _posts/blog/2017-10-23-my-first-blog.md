@@ -2,7 +2,7 @@
 layout:     post
 title: 10月23随笔   
 category: blog
-description:从此，给自己的心情找一个家~。
+description: 从此，给自己的心情找一个家~。
 ---
 
 从此，给自己的心情找一个家~
