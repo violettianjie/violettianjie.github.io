@@ -1,3 +1,12 @@
+---
+layout: post
+title: "风城生活记趣"
+category: travel
+description: “惠灵顿点滴”
+---
+
+[TianJie]:    https://violettianjie.github.io  "TianJie"
+
 ## 风城生活记趣
 
 ### 风起
