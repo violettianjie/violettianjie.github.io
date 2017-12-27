@@ -10,6 +10,7 @@ description: 人如产品，沟通愉快
 田捷，希望这份使用指南助你与她共创愉快：）
 
 - Blog：http://violettianjie.com/
+- 微信公众号： organicviolet 
 - GitHub ：@violettianjie
 - Email：violettianjie@qq#com
 - 近况：violettianjie.com/now
