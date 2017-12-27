@@ -27,7 +27,7 @@ description: 人如产品，沟通愉快
     - [feature](#feature)
     - [favorite team environment](#favorite-team-environment)
   - [life](#life)
-  - [paly](#paly)
+  - [play](#play)
   - [CHANGELOG](#changelog)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -112,7 +112,7 @@ description: 人如产品，沟通愉快
 
 	
 
-## paly
+## play
 
 
 - 喜欢旅游（度假），喜欢特色个性小店，喜欢全球／全国连锁店。不喜欢无目的的逛街。
