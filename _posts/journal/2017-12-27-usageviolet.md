@@ -1,3 +1,9 @@
+---
+layout: post
+title: 田捷使用指南
+category: journal
+description: 独立博客
+---
 
 
 # 田捷使用指南
