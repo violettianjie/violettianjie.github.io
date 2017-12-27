@@ -12,6 +12,7 @@ description: 人如产品，沟通愉快
 - Blog：http://violettianjie.com/
 - GitHub ：@violettianjie
 - Email：violettianjie@qq#com
+- 近况：violettianjie.com/now
 
 内容概览：
 
