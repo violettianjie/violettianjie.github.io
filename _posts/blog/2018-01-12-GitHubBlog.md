@@ -8,7 +8,7 @@ category: blog
 
 GitHub 作为一个开源社区，除了给程序员用着开源社区编码，还能给普通大众用来干点别点什么吗？
 
-2017年自己学着用 GitHub + Jeklly 做了一个独立博客，过程中得到不少人的帮助，用输出表示感谢，整理简单的步骤，供同好／同需求者参考。
+2017年试着用 GitHub + Jeklly 搭建了一个独立博客，过程中得到不少人的帮助，用输出表示感谢，整理简单的步骤，供同好／同需求者参考。
 
 ## Why
 
@@ -107,7 +107,9 @@ category: blog
 
 ## 感谢
 
-感谢开智部落参与 issue 讨论如何建博客的伙伴们。
+感谢开智部落参与 issue 讨论的你们：
+
+[韦海生](https://www.weihaisheng.com)、[林峰](http://linfeng365.com)、[夏雨莲](xiayulian.com)、[何胜军](https://bigv027.github.io/)、@alissli 、@xudoujiang、[shera](http://sherahouse.com)、[阳志平]（http://www.yangzhiping.com）、@Turbo-Snail、@leilayanhui...
  
 ### ChangeLog 
 
