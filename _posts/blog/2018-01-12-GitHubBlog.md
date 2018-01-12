@@ -66,7 +66,31 @@ Jekyll的核心其实就是一个文本的转换引擎，用你最喜欢的标�
  
 ### 评论
 
-如果要比较好的交互，那么可以增加 [Disque](http://disqus.com) 评论。这个需要用到vpn，推荐 付费的 [ExpressVPN](https://www.xpress-vpn.com)
+如果要比较好的交互，那么可以增加 [Disque](http://disqus.com) 评论。这个需要用到 VPN，推荐 付费的 [ExpressVPN](https://www.xpress-vpn.com)。
+
+如果要为某一篇文章加上评论，需要在最后加如下代码
+
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = https://violettianjie.github.io;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = https://violettianjie.github.io; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://https-violettianjie-github-io-1.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
 
 ## Then
 
@@ -96,6 +120,7 @@ category: blog
 
 
 
+
 恭喜，第一个独立博客上线。
 
 
@@ -104,5 +129,30 @@ category: blog
 ### ChangeLog 
 
 1、 20180112 ： 田捷创建
+
+
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = https://violettianjie.github.io;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = https://violettianjie.github.io; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://https-violettianjie-github-io-1.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+
+
 
 
