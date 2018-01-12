@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "Github 三部曲之 个人独立博客网站篇"
+title: "Github 三部曲之独立博客网站篇"
 description: "用GitHub + Jeklly 建独立博客"
 category: blog
 ---
 
-# Github 三部曲之 个人独立博客网站篇
 
 GitHub 作为一个开源社区，除了给程序员用着开源社区编码，还能给普通大众用来干点别点什么吗？
 
@@ -106,7 +105,9 @@ category: blog
 恭喜，第一个独立博客上线。
 
 
+## 感谢
 
+感谢开智部落参与 issue 讨论如何建博客的伙伴们。
  
 ### ChangeLog 
 
