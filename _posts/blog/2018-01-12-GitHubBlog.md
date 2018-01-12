@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Github 三部曲之 个人独立博客网站篇"
+description: "用GitHub + Jeklly 建独立博客"
+category: blog
+---
+
 # Github 三部曲之 个人独立博客网站篇
 
 GitHub 作为一个开源社区，除了给程序员用着开源社区编码，还能给普通大众用来干点别点什么吗？
@@ -8,7 +15,8 @@ GitHub 作为一个开源社区，除了给程序员用着开源社区编码，�
 
 ### 为什么要建一个独立博客？
 
-分享有的一切。（参考：[我为什么写博客](http://beiyuu.com/why-blog)) 
+自由的分享有的一切。（参考：[我为什么写博客](http://beiyuu.com/why-blog)) 
+
 
 ### 为什么要用 GitHub ？
 
