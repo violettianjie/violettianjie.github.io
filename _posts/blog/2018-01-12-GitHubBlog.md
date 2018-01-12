@@ -75,7 +75,8 @@ Jekyll的核心其实就是一个文本的转换引擎，用你最喜欢的标�
 
 ## Then
 
-完成以上，最重要的就是写啦，写作我会用 Markdown 格式（我用的Mweb Lite 软件），专注内容，比word等更高效， 生长你自己的内容树。然后可以通过Github 客户端或者网页版更新内容。 
+完成以上，最重要的就是写啦，写作我会用 Markdown 格式（我用的Mweb Lite 软件），专注内容，比word等更高效， 生长你自己的内容树。然后可以通过Github 客户端或者网页版更新内容。 （当然，如果你是程序员，可以直接用GitHub 的命令行，
+可以参考 [Git 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)    、 [廖雪峰的Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)、 [快乐的linux命令行](http://billie66.github.io/TLCL/index.html) ）
 
 以我的博客为例：
 
