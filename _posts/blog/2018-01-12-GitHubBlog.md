@@ -109,7 +109,7 @@ category: blog
 
 感谢开智部落参与 issue 讨论的你们：
 
-[韦海生](https://www.weihaisheng.com)、[林峰](http://linfeng365.com)、[夏雨莲](xiayulian.com)、[何胜军](https://bigv027.github.io/)、@alissli 、@xudoujiang、[shera](http://sherahouse.com)、[阳志平]（http://www.yangzhiping.com）、@Turbo-Snail、@leilayanhui...
+[韦海生](https://www.weihaisheng.com)、[林峰](http://linfeng365.com)、[夏雨莲](xiayulian.com)、[何胜军](https://bigv027.github.io/)、@alissli 、@xudoujiang、[shera](http://sherahouse.com)、[阳志平](http://www.yangzhiping.com)、@Turbo-Snail、@leilayanhui...
  
 ### ChangeLog 
 
