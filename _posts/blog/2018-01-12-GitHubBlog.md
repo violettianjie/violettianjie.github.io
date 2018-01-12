@@ -70,7 +70,8 @@ Jekyll的核心其实就是一个文本的转换引擎，用你最喜欢的标�
 
 如果要为某一篇文章加上评论，需要在最后加如下代码
 
-<div id="disqus_thread"></div>
+
+> <div id="disqus_thread"></div>
 <script>
 
 /**
