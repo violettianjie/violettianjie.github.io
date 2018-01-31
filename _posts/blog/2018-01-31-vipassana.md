@@ -47,7 +47,7 @@ category: blog
 
 ### 第三阶段 坚定决心
 
-2014年2月，在马来西亚内观中心 [Dhamma Malaysia](http://www.malaya.dhamma.org)做法工(Dhamma Worker)时，从一个师姐那里了解到，如果我要后续上四念住（Satipatthana Sutta）课程，我就需要尽量保持每天两小时的静坐练习，要上长课程（20日及以上），需要过去两年每天2次静坐一小时。
+2014年2月，在马来西亚内观中心 [Dhamma Malaysia](http://www.malaya.dhamma.org)做法工(Dhamma Worker)时，从一个师姐那里了解到，如果我要后续上四念住（Satipatthana Sutta）课程，我就需要尽量保持每天两小时的静坐练习，要上[长课程（20日及以上）](http://vipassana.sutta.org/vipassana-specialcource.htm)，需要过去两年每天2次静坐一小时。
 
 我开始下决心，更是要坚持每天的练习。
 
