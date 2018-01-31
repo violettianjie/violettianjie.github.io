@@ -13,7 +13,7 @@ category: blog
 ### 起
 
 
-2012.3月在[新西兰内观中心](http://medini.dhamma.org)上完第一次内观10日课，记得[葛印卡（S.N. Goenka）](http://vipassana.sutta.org/vipassana-goenka.htm)老师在开示里说：你们回去后要坚持早晚各1小时的练习。
+2012.3月在[新西兰内观中心](http://medini.dhamma.org)上完第一次内观10日课，记得[葛印卡（S.N. Goenka）](http://vipassana.sutta.org/vipassana-goenka.htm)老师在开示里说:你们回去后要坚持早晚各1小时的练习。能固定时间、固定地点最好。
 
 对此，从刚结束课程，热情未消就开始练习。那时候，住在[国际青年旅舍](https://www.yha.co.nz)，居无定所的在新西兰旅游。大概坚持了两三天，就不再坚持。
 
