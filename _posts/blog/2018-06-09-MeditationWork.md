@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "修行与工作"
