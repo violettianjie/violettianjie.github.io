@@ -1,8 +1,9 @@
+---
 layout: post
 title: "记今日书-肆"
 description: "思考"
 category: blog
-
+----
 
 
 
