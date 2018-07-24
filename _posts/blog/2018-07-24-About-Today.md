@@ -1,9 +1,9 @@
-----
-layout: post
-title: "记今日书-肆"
-description: "思考"
+---
+layout:     post
+title: 记今日书-肆  
 category: blog
-----
+description: 成长，长成自己的样子
+---
 
 
 
