@@ -1,8 +1,9 @@
+---
 layout: post
 title: "记今日书-伍"
 description: "思考"
 category: blog
-
+---
 
 
 
