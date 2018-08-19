@@ -1,4 +1,10 @@
 
+---
+layout: post
+title: "信息与信任"
+description: "读《数学之美》之《第六章 信息的度量和作用》"
+category: blog
+---
 
 
 
