@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Daily-Recording-0902"
+title: "复盘"
 description: "最近一段时间的思考"
 category: blog
 ---
