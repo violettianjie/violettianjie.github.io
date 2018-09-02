@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Daily-Recording-0902"
+description: "最近一段时间的思考"
+category: blog
+---
+
+
+
 复盘
 
 我缺少独立的思考，不爱思考，很多事情没有自己的看法，容易人云亦云，被别人牵着鼻子走。
