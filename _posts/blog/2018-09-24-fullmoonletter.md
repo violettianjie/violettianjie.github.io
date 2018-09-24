@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "写给紫儿的一封信"
+title: "人生有别—— 一封写给紫儿的信"
 description: "要知人生亦有别，此事古难全。"
 category: blog
 ---
 
 
 
-### 写给紫儿的一封信
 
 紫儿，
     你好。 
