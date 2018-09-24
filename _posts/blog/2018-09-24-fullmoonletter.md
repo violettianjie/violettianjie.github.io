@@ -1,4 +1,9 @@
-
+---
+layout: post
+title: "写给紫儿的一封信"
+description: "要知人生亦有别，此事古难全。"
+category: blog
+---
 
 
 
