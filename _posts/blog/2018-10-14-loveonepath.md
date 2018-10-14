@@ -7,7 +7,7 @@ category: blog
 
 
 
-180930-181011，印度 Kutch ，Dhamma Sindhu 内观中心十日内观课程。
+180930-181011，印度 Kutch ， [Dhamma Sindhu ](http://www.sindhu.dhamma.org) 内观中心十日内观课程。
 
 这次内观课程最大的收获：如何判断一段关系中，你的感情是爱还是其他？
 
