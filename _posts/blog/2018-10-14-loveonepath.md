@@ -1,4 +1,11 @@
-## 爱的单行道
+---
+layout: post
+title: "爱的单行道"
+description: "内观10日|只求付出，不求回报"
+category: blog
+---
+
+
 
 180930-181011，印度 Kutch ，Dhamma Sindhu 内观中心十日内观课程。
 
