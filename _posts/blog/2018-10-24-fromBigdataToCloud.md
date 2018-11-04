@@ -27,10 +27,13 @@ category: blog
 现有的 Hadoop （由Apache基金会所开发的开源的分布式系统基础架构）大数据技术的基础 为谷歌的三篇技术论文：
 
 2003年发表的《The Google File System》
+
 2004年发表的《MapReduce: Simplified Data Processing on Large Clusters 》
+
 2006年发表的《Bigtable: A Distributed Storage System for Structured Data》
 
 ### 二 云计算起源、定义
+
 2006年，27岁的Google高级工程师比西莉亚Christophe Bisciglia第一次向Google CEO 埃里克·斯密特（Eric E. Schmidt）提出“云计算”的思想。Google公司出资在华盛顿大学搭建一个类似于Google搜索的分布式计算系统，由比西莉亚向华盛顿大学的师生们讲授Google的核心技术：GFS分布式文件系统和MapReduce分布式编程框架。
 斯密特先生采纳了比西莉亚的建议，向华盛顿大学捐赠了40台服务器，比西莉亚定期到华盛顿大学进行授课。
 2006年8月，埃里克·斯密特在搜索引擎大会上首次提出“云计算”的概念。
@@ -38,6 +41,7 @@ category: blog
 维基百科中对于云计算的定义：云计算是一种通过Internet以服务的方式提供动态可伸缩的虚拟化的资源的计算模式。
 
 ### 三 云计算与“大数据”
+
 将各种“大数据”的应用比作一辆辆“汽车”，支撑起这些“汽车”运行的“高速公路”就是云计算。最著名的实例就是Google搜索引擎。面对海量Web数据，Google于2006年首先提出“云计算”的概念。支撑Google内部各种“大数据”应用的，正是Google公司自行研发的云计算服务器。有了云计算服务器才有了“大数据”应用的价值。
 G=f（x） G 目标，f云计算，x大数据。
 
