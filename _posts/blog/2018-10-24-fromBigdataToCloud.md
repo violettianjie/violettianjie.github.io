@@ -25,7 +25,10 @@ category: blog
 维克托·迈尔-舍恩伯格和肯尼斯·克耶编写的《大数据时代》中提出
 “大数据”的4V特点：Volume(数据量大)、Velocity(输入和处理速度快)、Variety(数据多样性)、Value(价值密度低)。
 现有的 Hadoop （由Apache基金会所开发的开源的分布式系统基础架构）大数据技术的基础 为谷歌的三篇技术论文：
-2003年发表的《The Google File System》 2004年发表的《MapReduce: Simplified Data Processing on Large Clusters 》 2006年发表的《Bigtable: A Distributed Storage System for Structured Data》
+
+2003年发表的《The Google File System》
+2004年发表的《MapReduce: Simplified Data Processing on Large Clusters 》
+2006年发表的《Bigtable: A Distributed Storage System for Structured Data》
 
 ### 二 云计算起源、定义
 2006年，27岁的Google高级工程师比西莉亚Christophe Bisciglia第一次向Google CEO 埃里克·斯密特（Eric E. Schmidt）提出“云计算”的思想。Google公司出资在华盛顿大学搭建一个类似于Google搜索的分布式计算系统，由比西莉亚向华盛顿大学的师生们讲授Google的核心技术：GFS分布式文件系统和MapReduce分布式编程框架。
