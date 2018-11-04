@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "从大数据到云计算"
+title: "如何逃离大数据的黑洞？"
 description: "从大数据到云计算"
 category: blog
 ---
