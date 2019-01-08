@@ -1,4 +1,9 @@
-
+---
+layout: post
+title: "南风歌- 龙泉寺的早饭"
+description: "读古诗源系列"
+category: blog
+---
 ### 龙泉寺的早饭
 
 凤凰岭下，晨光熹微。
