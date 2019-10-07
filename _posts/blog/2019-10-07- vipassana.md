@@ -1,3 +1,9 @@
+---
+layout: post
+title: "内观十日后闲聊几句"
+description: "内观"
+category: blog
+---
 
 
 
