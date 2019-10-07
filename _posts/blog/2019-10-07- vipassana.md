@@ -49,7 +49,7 @@
  第四次 2015  加德满都  
  第五次 2016  都江堰 
  第六次 2017  都江堰 
- 第七次 2018  印度sindu 
+ 第七次 2018  [印度sindu](http://violettianjie.com/loveonepath) 
  第八次 2019 永清
  
  四念住 2014  仰光
