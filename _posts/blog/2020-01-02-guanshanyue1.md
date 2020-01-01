@@ -1,4 +1,9 @@
-
+---
+layout: post
+title: "关山月1白日放歌需纵酒"
+description: "关山月"
+category: blog
+---
 
 1、白日放歌需纵酒
 
