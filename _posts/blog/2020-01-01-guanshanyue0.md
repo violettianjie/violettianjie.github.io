@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "关山月"
-description: "小说|关山月
+description: "小说|关山月"
 category: blog
 ---
 
