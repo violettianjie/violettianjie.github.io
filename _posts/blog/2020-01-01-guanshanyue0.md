@@ -1,4 +1,9 @@
-
+---
+layout: post
+title: "关山月"
+description: "小说|关山月
+category: blog
+---
 
 > 白日登山望烽火，黄昏饮马傍交河。-- 《古从军行》
 
