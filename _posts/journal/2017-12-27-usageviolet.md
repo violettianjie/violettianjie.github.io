@@ -12,6 +12,7 @@ description: 人如产品，沟通愉快
 - Blog：http://violettianjie.com/
 - 微信公众号： organicviolet 
 - 微博： 紫儿与茶
+- 知识星球：不务正业玩音乐
 - GitHub ：@violettianjie
 - Email：violettianjie@qq#com
 - 近况：violettianjie.com/now
