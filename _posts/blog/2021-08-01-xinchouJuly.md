@@ -1,4 +1,9 @@
-
+---
+layout: post
+title: "辛丑七月记"
+description: "总结"
+category: blog
+---
 
 ## 辛丑七月记
 
