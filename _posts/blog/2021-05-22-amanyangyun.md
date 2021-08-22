@@ -1,4 +1,9 @@
-
+---
+layout: post
+title: " 住在博物馆里是什么感受"
+description: "度假酒店"
+category: blog
+---
 
 ### 住在博物馆里是什么感受？
 
