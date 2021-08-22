@@ -1,3 +1,9 @@
+---
+layout: post
+title: "  理想的下午 "
+description: "游记"
+category: blog
+---
 
 ### 理想的下午
 舒国治有本书《理想的下午》：
