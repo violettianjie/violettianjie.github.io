@@ -1,4 +1,9 @@
-
+---
+layout: post
+title: " 从即兴戏剧里学到的几点 "
+description: "学习心得"
+category: blog
+---
 
 ### 从即兴戏剧里学到的几点
 
