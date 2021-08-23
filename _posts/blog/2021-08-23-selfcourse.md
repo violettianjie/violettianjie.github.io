@@ -1,4 +1,9 @@
-
+---
+layout: post
+title: " 内观自修课程的经验教训 "
+description: "内观"
+category: blog
+---
 
 ### 内观自修课程的经验教训
 
