@@ -71,8 +71,8 @@ description: 人如产品，沟通愉快
 ## life
 
 - 对生活的构想，见 https://github.com/violettianjie/ForFamily 。
-- 持五戒： 不妄语，不杀生，不偷盗，不邪淫，不饮酒。
-- 推崇极简主义生活方式。
+
+
 
 
 
@@ -94,5 +94,6 @@ description: 人如产品，沟通愉快
 - 200308 田捷修订
 
 - 210721 田捷修订
+- 211102 田捷修订
 
 
