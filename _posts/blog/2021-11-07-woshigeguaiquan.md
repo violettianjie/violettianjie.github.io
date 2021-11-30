@@ -1,3 +1,10 @@
+---
+layout: post
+title: " 模式的因果层级 "
+description: "读书笔记"
+category: blog
+---
+
 
 ### 读书：模式的因果层级
 
