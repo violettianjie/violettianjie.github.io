@@ -12,7 +12,7 @@ description: 人如产品，沟通愉快
 - Blog：http://violettianjie.com/
 - 微信公众号： organicviolet 
 - 微博： 紫儿与茶
-- 知识星球：不务正业玩音乐
+- 知识星球：音乐是记忆的开关
 - GitHub ：@violettianjie
 - Email：violettianjie@qq#com
 - 近况：violettianjie.com/now
@@ -95,5 +95,6 @@ description: 人如产品，沟通愉快
 
 - 210721 田捷修订
 - 211102 田捷修订
+- 211224 田捷修订
 
 
