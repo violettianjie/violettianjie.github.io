@@ -4,6 +4,7 @@ https://violettianjie.github.io/
 
 ## 为什么要开博客？ 
 
+- 修正、完善对事物的认识
 - 分享我有的一切, 参考博客 [Derek Sivers]( https://sivers.org/sharing)
 
 ## 感谢
