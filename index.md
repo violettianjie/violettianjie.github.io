@@ -8,7 +8,7 @@ layout: home
             <li class="on"><a href="/"><span>Blog</span></a></li>
             <li style="text-align:center"><a href="/travel"><span>Travel</span></a></li>
             <li style="text-align:right"><a href="/journal"><span>Journal</span></a></li>
-            <li style="text-align:right"><a href="/dejavu"><span>Dejavu</span></a></li>
+       
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
