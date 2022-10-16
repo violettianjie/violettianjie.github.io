@@ -18,5 +18,5 @@ start from scratch，先站个位置，哈哈哈。
 
 
 
-## Chagne Log
+## Change Log
 1、20221016 从0开始。旧文开始忘记存了。
