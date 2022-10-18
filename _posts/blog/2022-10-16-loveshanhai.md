@@ -6,7 +6,7 @@ category: blog
 ---
 ## 所爱隔山海 B
 
-start from scratch，先站个位置，哈哈哈。
+start from scratch。
 
 ### 第一章 三年枕上吴中路
 
@@ -108,4 +108,5 @@ start from scratch，先站个位置，哈哈哈。
 
 ## Change Log
 1、20221016 从0开始。旧文开始忘记存了。
-2、20221018 又找回以前的版本了。
+2、20221017: 第一章。
+3、20221018 又找回以前的版本了。
