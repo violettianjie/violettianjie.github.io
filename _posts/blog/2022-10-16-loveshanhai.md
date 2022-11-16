@@ -6,7 +6,7 @@ category: blog
 ---
 ## 所爱隔山海 B
 
-start from scratch。
+
 
 ### 第一章 三年枕上吴中路
 
