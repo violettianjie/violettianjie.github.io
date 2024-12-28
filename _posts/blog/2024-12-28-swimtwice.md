@@ -1,3 +1,10 @@
+---
+layout: post
+title: "游泳的频率"
+description: "2024游泳频率提升计划圆满完成"
+category: blog
+---
+
 ### 游泳的频率
 
 > The best in the world are not the best because they win every point... It’s because they know they’ll lose... again and again… and have learned how to deal with it.You accept it. Cry it out if you need to... then force a smile.You move on. Be relentless. Adapt and grow.Work harder. Work smarter. Remember: work smarter.  
