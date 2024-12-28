@@ -1,17 +1,11 @@
 ### 游泳的频率
 
-> The best in the world are not the best because they win every point... It’s because they know they’ll lose... again and again… and have learned how to deal with it.
-
-You accept it. Cry it out if you need to... then force a smile.
-
-You move on. Be relentless. Adapt and grow.
-
-Work harder. Work smarter. Remember: work smarter.  ---费德勒Roger Federer
+> The best in the world are not the best because they win every point... It’s because they know they’ll lose... again and again… and have learned how to deal with it.You accept it. Cry it out if you need to... then force a smile.You move on. Be relentless. Adapt and grow.Work harder. Work smarter. Remember: work smarter.  
+> ---费德勒 Roger Federer
 
 
 
 2023年下半年每月游泳2次的目标没有完成…2024年1月重新开始……。
-
 
 
 2024年12月回顾：今年每月游2次目标完成了 ✅
@@ -25,13 +19,14 @@ Work harder. Work smarter. Remember: work smarter.  ---费德勒Roger Federer
 穷举然后排除法真的是最笨但是最好用的方法。
 
 
-2024年结束，回顾今年去了3+2个游泳池/馆，游了28次，28公里。
+2024年结束，回顾今年游了成都、西双版纳、琅勃拉邦 3+2=5个游泳池/馆，游了28次，合计28公里，超额完成既定目标。
 
 我的游泳频率提升计划是从2023年1-6月每月1次提升到2024年每月2次。
 
-问题的关键点其实不在频率，在于
+问题的关键点不在频率，在于
 
-第一不能身体出状况，比如过敏。去年下半年没有完成的重要原因是皮肤过敏。过敏的本质呢不是免疫力下降，而是身体的免疫系统出现判断失误，比如把好人当坏人。而从本质上说人不能提升免疫力，而是维持。或者说不要做破坏免疫系统的事。
+第一不能身体出状况，比如过敏。2023年下半年没有完成的重要原因是皮肤过敏。过敏的本质呢不是免疫力下降，而是身体的免疫系统出现判断失误，比如把好人当坏人。而从本质上说人不能提升免疫力，而是维持。或者说不要做破坏免疫系统的事。
+过敏就如同有些事，不知所起 不知所终，不知道怎么就来了，不知道怎么就结束了，也许还会反复，但是没有影响我游泳了就算好了 。感谢去年朋友们提供的建议，虽然一个法子也没用就是简单粗暴：硬扛…。
 
 第二是如果要完成这个目标，这段时间里我不能去上超过30天的内观长课程。
 
