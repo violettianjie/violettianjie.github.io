@@ -1,6 +1,10 @@
+---
+layout: post
+title: "云山沧沧"
+description: "一腔孤勇，闯荡江湖。"
+category: blog
+---
 
-                        《云山苍苍》
-立意： 一腔孤勇，闯荡江湖。
 
 云山沧沧，江海茫茫。 
 
